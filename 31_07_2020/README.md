@@ -28,19 +28,28 @@
 
 - [ ] Nirmal vacation :mountains:
 
-*Aug 9 - Aug 15*
+**Aug 9 - Aug 15**
+
 - [ ] Fix the C4 and back end issue. Mail sent to Frans. (Nirmal)
 - [ ] Decide on the popup implementation (Nirmal and Manuel)
 - [ ] Decide on tasks, tests and task description. (Nirmal with feedback from Claudia, Ujwal, David)
+
 **Aug 16 - Aug 22**
+
 - [ ] Set up the end-to-end experiment website for all four conditions.
 - [ ] Testing front-end and back-end
+
 **Aug23 - Aug 29**
+
 - [ ] Run user study
 - [ ] Start preparing code for analysis
+
 **Aug 30 - Sep 5**
+
 - [ ] Data Analysis
+
 **Sep 6 - Sep 12**
+
 - [ ] Data Analysis
 - [ ] Writing
 
