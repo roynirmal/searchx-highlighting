@@ -26,7 +26,7 @@
 ### Timeline:
 **Aug 2- Aug 8**
 
-- [ ] Nirmal vacation :mountains:
+- [ ] Nirmal vacation :sunrise_over_mountains: :milky_way: :car: :tent:
 
 **Aug 9 - Aug 15**
 
