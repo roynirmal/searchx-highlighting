@@ -26,12 +26,12 @@
 ### Timeline:
 **Aug 2- Aug 8**
 
-- [ ] Nirmal vacation :sunrise_over_mountains: :milky_way: :car: :tent:
+- [x] Nirmal vacation :sunrise_over_mountains: :milky_way: :car: :tent:
 
 **Aug 9 - Aug 15**
 
 - [ ] Fix the C4 and back end issue. Mail sent to Frans. (Nirmal)
-- [ ] Decide on the popup implementation (Nirmal and Manuel)
+- [x] Decide on the popup implementation (Nirmal and Manuel)
 - [ ] Decide on tasks, tests and task description. (Nirmal with feedback from Claudia, Ujwal, David)
 
 **Aug 16 - Aug 22**
